@@ -8,12 +8,30 @@ Antes de começar, certifique-se de que você tenha o seguinte pré-requisito in
 
 - **Java Development Kit (JDK):** É necessário ter a versão 17.0.8 ou superior do JDK instalada. Você pode verificar a versão do JDK instalada executando `java -version` no terminal.
 
-## Bibliotecas ultilizadas
+## Bibliotecas Utilizadas
 
+O projeto Lotofácil em Java utiliza as seguintes bibliotecas:
 
-1. [Scanner](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
-2. [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
-3. [IOException](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/java/io/IOException.html)
+1. [java.awt.Color](https://docs.oracle.com/javase/8/docs/api/java/awt/Color.html)
+
+2. [java.awt.Component](https://docs.oracle.com/javase/8/docs/api/java/awt/Component.html)
+
+3. [java.awt.FlowLayout](https://docs.oracle.com/javase/8/docs/api/java/awt/FlowLayout.html)
+
+4. [java.awt.event.ActionEvent](https://docs.oracle.com/javase/8/docs/api/java/awt/event/ActionEvent.html)
+
+5. [java.awt.event.ActionListener](https://docs.oracle.com/javase/8/docs/api/java/awt/event/ActionListener.html)
+
+6. [java.util.Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
+
+7. [javax.swing.JButton](https://docs.oracle.com/javase/8/docs/api/javax/swing/JButton.html)
+
+8. [javax.swing.JFrame](https://docs.oracle.com/javase/8/docs/api/javax/swing/JFrame.html)
+
+9. [javax.swing.JOptionPane](https://docs.oracle.com/javase/8/docs/api/javax/swing/JOptionPane.html)
+
+10. [javax.swing.JPanel](https://docs.oracle.com/javase/8/docs/api/javax/swing/JPanel.html)
+
 
 ## Executando o Projeto
 
